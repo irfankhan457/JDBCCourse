@@ -1,0 +1,4 @@
+2025-04-29 02:04:53.186 [main] ERROR DemoJdbc - Error inserting student data.
+org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "student_pkey"
+  Detail: Key (sid)=(21) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2733)

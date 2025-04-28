@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="log4j-core-3.0.0-beta3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../postgresql-42.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../log4j-api-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../log4j-core-2.22.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
